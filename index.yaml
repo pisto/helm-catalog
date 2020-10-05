@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   cluster-endpoints:
   - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2020-09-23T16:28:12.494910864+02:00"
+    appVersion: 2.0.0
+    created: "2020-10-05T12:42:51.984380818+02:00"
     description: A Helm chart for Kubernetes
-    digest: 3c7372475451ce4123aab45802eca816509dd8550698176b6645871cdccfbf99
+    digest: d5401955d0044a060979bad64b064f9f931e89143d6f208629478cdf4dd810c1
     name: cluster-endpoints
     type: application
     urls:
-    - https://pisto.github.io/helm-catalog/cluster-endpoints-0.1.0.tgz
-    version: 0.1.0
-generated: "2020-09-23T16:28:12.494280759+02:00"
+    - https://pisto.github.io/helm-catalog/cluster-endpoints-0.2.0.tgz
+    version: 0.2.0
+generated: "2020-10-05T12:42:51.983977231+02:00"
